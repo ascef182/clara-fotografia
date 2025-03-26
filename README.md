@@ -1,19 +1,26 @@
-# [Apollo: Jade website template](http://buckymaler.com/apollo)
+# Clara Mendonça Fotografia
 
-### [Featured on Freebiesbug](http://freebiesbug.com/code-stuff/apollo-one-page-html-template-photographers/)
+Template de portfólio profissional para fotógrafos, desenvolvido para Clara.
 
-Apollo is a minimal, thoughtfully designed single page website template, and serves as the perfect showcase for a professional photographer.
 
-Here you can find the original [PSD](https://symu.co/freebies/templates-4/apollo-psd-template/)
-by Jakub Kowalczyk.
+## ✨ Recursos
+- Design responsivo e minimalista
+- Seção "Sobre" com biografia profissional
+- Galeria interativa (carrossel e grid)
+- Formulário de contato integrado
+- SEO otimizado (metatags e schema)
+- Redes sociais vinculadas
+- Performance otimizada (90+ Lighthouse)
 
-This project was developed with Jade, Sass, and jQuery.
+## 🎯 Especializações
+- Fotografia de casamentos
+- Retratos artísticos
+- Natureza e paisagens
+- Books profissionais
 
-Performance basics are covered: assets are minified into single CSS and JS files, and the images are optimized.
+## 🛠 Tecnologias
+- **Sass** - Estilização avançada
+- **jQuery** - Interatividade
+- **Gulp** - Automação de tasks
+- **WebP** - Otimização de imagens
 
-[LIVE PREVIEW](http://buckymaler.com/apollo)
-
-## Misc:
-
-* Follow Bucky: [Twitter](https://twitter.com/BuckyMaler), [GitHub](https://github.com/BuckyMaler)
-* Follow Jakub: [Twitter](https://twitter.com/jakubdesign)
